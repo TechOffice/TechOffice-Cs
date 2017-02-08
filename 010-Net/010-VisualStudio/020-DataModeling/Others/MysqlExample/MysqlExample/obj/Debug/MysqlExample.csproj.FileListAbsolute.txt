@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2015\Projects\MysqlExample\MysqlExample\bin\Debug\MysqlExample.exe.config
+c:\users\user\documents\visual studio 2015\Projects\MysqlExample\MysqlExample\bin\Debug\MysqlExample.exe
+c:\users\user\documents\visual studio 2015\Projects\MysqlExample\MysqlExample\bin\Debug\MysqlExample.pdb
+c:\users\user\documents\visual studio 2015\Projects\MysqlExample\MysqlExample\bin\Debug\Google.Protobuf.dll
+c:\users\user\documents\visual studio 2015\Projects\MysqlExample\MysqlExample\bin\Debug\MySql.Data.dll
+c:\users\user\documents\visual studio 2015\Projects\MysqlExample\MysqlExample\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\user\documents\visual studio 2015\Projects\MysqlExample\MysqlExample\bin\Debug\Google.Protobuf.xml
+c:\users\user\documents\visual studio 2015\Projects\MysqlExample\MysqlExample\obj\Debug\MysqlExample.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\MysqlExample\MysqlExample\obj\Debug\MysqlExample.exe
+c:\users\user\documents\visual studio 2015\Projects\MysqlExample\MysqlExample\obj\Debug\MysqlExample.pdb
