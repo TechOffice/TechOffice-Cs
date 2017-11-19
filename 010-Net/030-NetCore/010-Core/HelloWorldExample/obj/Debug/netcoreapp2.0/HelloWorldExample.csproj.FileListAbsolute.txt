@@ -1,0 +1,10 @@
+C:\Users\user\git_workdspace\TechOffice-Cs\010-Net\030-NetCore\010-Core\HelloWorldExample\bin\Debug\netcoreapp2.0\HelloWorldExample.deps.json
+C:\Users\user\git_workdspace\TechOffice-Cs\010-Net\030-NetCore\010-Core\HelloWorldExample\bin\Debug\netcoreapp2.0\HelloWorldExample.runtimeconfig.json
+C:\Users\user\git_workdspace\TechOffice-Cs\010-Net\030-NetCore\010-Core\HelloWorldExample\bin\Debug\netcoreapp2.0\HelloWorldExample.runtimeconfig.dev.json
+C:\Users\user\git_workdspace\TechOffice-Cs\010-Net\030-NetCore\010-Core\HelloWorldExample\bin\Debug\netcoreapp2.0\HelloWorldExample.dll
+C:\Users\user\git_workdspace\TechOffice-Cs\010-Net\030-NetCore\010-Core\HelloWorldExample\bin\Debug\netcoreapp2.0\HelloWorldExample.pdb
+C:\Users\user\git_workdspace\TechOffice-Cs\010-Net\030-NetCore\010-Core\HelloWorldExample\obj\Debug\netcoreapp2.0\HelloWorldExample.csproj.CoreCompileInputs.cache
+C:\Users\user\git_workdspace\TechOffice-Cs\010-Net\030-NetCore\010-Core\HelloWorldExample\obj\Debug\netcoreapp2.0\HelloWorldExample.AssemblyInfoInputs.cache
+C:\Users\user\git_workdspace\TechOffice-Cs\010-Net\030-NetCore\010-Core\HelloWorldExample\obj\Debug\netcoreapp2.0\HelloWorldExample.AssemblyInfo.cs
+C:\Users\user\git_workdspace\TechOffice-Cs\010-Net\030-NetCore\010-Core\HelloWorldExample\obj\Debug\netcoreapp2.0\HelloWorldExample.dll
+C:\Users\user\git_workdspace\TechOffice-Cs\010-Net\030-NetCore\010-Core\HelloWorldExample\obj\Debug\netcoreapp2.0\HelloWorldExample.pdb
