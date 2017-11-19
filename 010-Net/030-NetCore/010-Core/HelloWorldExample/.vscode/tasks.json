@@ -1,16 +1,14 @@
 {
-    // See https://go.microsoft.com/fwlink/?LinkId=733558
-    // for the documentation about the tasks.json format
-    "version": "0.1.0",
-    "command": "D:\\p\\dotnet restore",
-    "isShellCommand": true,
-    "args": [],
+    "version": "2.0.0",
     "tasks": [
         {
             "taskName": "build",
-            "args": [ ],
-            "isBuildCommand": true,
-            "showOutput": "always",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+                "${workspaceFolder}/HelloWorldExample.csproj"
+            ],
             "problemMatcher": "$msCompile"
         }
     ]

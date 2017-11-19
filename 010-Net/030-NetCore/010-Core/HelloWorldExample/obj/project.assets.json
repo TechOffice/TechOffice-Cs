@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\git_workdspace\\TechOffice-Cs\\010-Net\\030-NetCore\\010-Core\\HelloWorldExample\\HelloWorldExample.csproj",
+      "projectUniqueName": "c:\\Users\\user\\git_workdspace\\TechOffice-Cs\\010-Net\\030-NetCore\\010-Core\\HelloWorldExample\\HelloWorldExample.csproj",
       "projectName": "HelloWorldExample",
-      "projectPath": "C:\\Users\\user\\git_workdspace\\TechOffice-Cs\\010-Net\\030-NetCore\\010-Core\\HelloWorldExample\\HelloWorldExample.csproj",
+      "projectPath": "c:\\Users\\user\\git_workdspace\\TechOffice-Cs\\010-Net\\030-NetCore\\010-Core\\HelloWorldExample\\HelloWorldExample.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\git_workdspace\\TechOffice-Cs\\010-Net\\030-NetCore\\010-Core\\HelloWorldExample\\obj\\",
+      "outputPath": "c:\\Users\\user\\git_workdspace\\TechOffice-Cs\\010-Net\\030-NetCore\\010-Core\\HelloWorldExample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
